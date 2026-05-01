@@ -38,7 +38,7 @@ D&D 5e API
 
 ### 1. Clonar o repositório
 
-git clone COLOQUE_AQUI_O_LINK_DO_REPOSITORIO
+git clone https://github.com/Pablo-Vitor/rpg-character-forge-react
 
 ### 2. Entrar na pasta
 
