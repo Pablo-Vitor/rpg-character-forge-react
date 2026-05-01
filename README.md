@@ -91,27 +91,26 @@ src/
 
 ## Prints da aplicação
 
-Adicione os prints na pasta assets/screenshots.
 
 ### Tela inicial
 
-![Tela inicial](assets/screenshots/home.png)
+![Tela inicial](src/assets/screenshots/home.png)
 
 ### Gerador de personagem
 
-![Gerador](assets/screenshots/generator.png)
+![Gerador](src/assets/screenshots/generator.png)
 
 ### Detalhes de raça
 
-![Detalhes raça](assets/screenshots/race-details.png)
+![Detalhes raça](src/assets/screenshots/race-details.png)
 
 ### Detalhes de classe
 
-![Detalhes classe](assets/screenshots/class-details.png)
+![Detalhes classe](src/assets/screenshots/class-details.png)
 
 ## Link para acessar a aplicação online
 
-COLOQUE_AQUI_O_LINK_DA_APLICACAO_ONLINE
+https://pablo-vitor.github.io/rpg-character-forge-react/
 
 ## Status do projeto
 
